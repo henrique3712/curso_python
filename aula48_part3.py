@@ -17,7 +17,7 @@ lista = [10, 20, 30, 40]
 lista.append(50)
 lista.pop()
 lista.append(60)
-lista.append('Luiz')
+lista.append('Henrique')
 ultimo_valor = lista.pop(3)
 print(lista, 'Removido,', ultimo_valor)
 lista.append(1233)

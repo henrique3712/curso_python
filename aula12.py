@@ -1,12 +1,12 @@
-nome = 'Luiz Otávio'
-altura = 1.80
-peso = 95
+nome = 'Henrique Silva'
+altura = 1.70
+peso = 75
 imc = peso / altura ** 2
 
 print(nome, 'tem', altura, 'de altura,',)
 print('pesa', peso, 'quilos e seu imc é',)
 print(imc)
 
-# Luiz Otávio tem 1.80 de altura,
-# pesa 95 quilos e seu IMC é
-# 29.320987654320987
+# Henrique Silva tem 1.70 de altura,
+# pesa 75 quilos e seu IMC é
+# 25.95155709342561

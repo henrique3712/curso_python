@@ -12,10 +12,10 @@ dicionários.
 Imutáveis: str, int, float, bool, tuple
 Mutável: dict, list
 pessoa = {
-    'nome': 'Luiz Otávio',
-    'sobrenome': 'Miranda',
-    'idade': 18,
-    'altura': 1.8,
+    'nome': 'Henrique Silva',
+    'sobrenome': 'Oliveira',
+    'idade': 29,
+    'altura': 1.7,
     'endereços': [
         {'rua': 'tal tal', 'número': 123},
         {'rua': 'outra rua', 'número': 321},
@@ -23,12 +23,12 @@ pessoa = {
 }
 '''
 
-# pessoa = dict(nome='Luiz Otávio', sobrenome='Miranda' )
+# pessoa = dict(nome='Henrique Silva', sobrenome='Oliveira' )
 pessoa = {
-    'nome': 'Luiz Otávio',
-    'sobrenome': 'Miranda',
-    'idade': 18,
-    'altura': 1.8,
+    'nome': 'Henrique Silva',
+    'sobrenome': 'Oliveira',
+    'idade': 29,
+    'altura': 1.7,
     'endereços': [
         {'rua': 'tal tal', 'número': 123},
         {'rua': 'outra rua', 'número': 321},

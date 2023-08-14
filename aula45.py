@@ -5,7 +5,7 @@ next -> me entregue o próximo valor
 iter -> me entregue seu iterador
 """
 """texto = iter('Luiz')  # __iter__()"""
-texto = 'Luiz'
+texto = 'Silva'
 iterador = iter(texto)  # iterator
 
 while True:
@@ -16,7 +16,7 @@ while True:
     except StopIteration:
         break
 
-texto1 = 'Luiz'.lower()
+texto1 = 'Silva'.lower()
 
 for letra in texto1:
     print(letra)
